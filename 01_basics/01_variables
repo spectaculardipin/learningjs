@@ -1,0 +1,7 @@
+const order_id = 78
+const order_item = "Lenovo_loq"
+const price = "NPR_1_Lakhs"
+let address = "Sainamaina-3"
+contactNumber = "67363872"
+
+console.table([order_id, order_item, price, address, contactNumber])
